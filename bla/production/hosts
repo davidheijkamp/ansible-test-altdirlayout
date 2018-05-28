@@ -1,8 +1,0 @@
-[all]
-localhost ansible_connection=local
-
-[exhibits-biotech]
-biotech
-
-[zaal-14]
-biotech

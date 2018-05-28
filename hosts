@@ -1,5 +1,3 @@
 [all]
 localhost ansible_connection=local
-
-[zaal-test-14]
 biotechasdasdasd
